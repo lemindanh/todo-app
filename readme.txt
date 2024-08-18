@@ -1,2 +1,2 @@
-Project: Todo App
-Version: --------
+Project: Todo App 
+Version: todo-app-1.0-SNAPSHOT
